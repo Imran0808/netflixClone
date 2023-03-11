@@ -1,0 +1,23 @@
+.footer{
+    color: white;
+    background-color: black;
+    max-height: 200px;
+    width: 100%;
+   padding-top: 10px;
+
+}
+.footer>div{
+    
+  display: flex;
+}
+
+.footer p{
+font-size:1rem ;
+width: 100%;
+}
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+   padding-bottom: 5px;
+}
